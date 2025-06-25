@@ -1,0 +1,13 @@
+*{
+    background-color:rgb(187, 227, 252);
+}
+.heading{
+    padding:15px;
+}
+
+.padding{
+    padding-left: 20px;
+}
+.foot{
+    float: inline-end;
+}
